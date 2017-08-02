@@ -1,0 +1,71 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"name": "GitHub Theme",
+	"colors": {
+		"editor.background": "#ffffff",
+		"editor.foreground": "#24292e"
+	},
+	"tokenColors": [
+		{
+			"scope": "emphasis",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "strong",
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#6a737d"
+			}
+		},
+		{
+			"scope": "string",
+			"settings": {
+				"foreground": "#032f62"
+			}
+		},
+		{
+			"scope": [
+				"constant.numeric",
+				"constant.language.null",
+				"variable.language.this",
+				"support.type.primitive",
+				"support.function",
+				"support.variable.dom",
+				"support.variable.property",
+				"support.variable.property"
+			],
+			"settings": {
+				"foreground": "#005cc5"
+			}
+		},
+		{
+			"scope": [
+				"keyword",
+				"storage.modifier",
+				"storage.type",
+				"variable.parameter"
+			],
+			"settings": {
+				"foreground": "#d73a49"
+			}
+		},
+
+		{
+			"scope": [
+				"entity.name.type",
+				"entity.other.inherited-class",
+				"meta.function-call"
+			],
+			"settings": {
+				"foreground": "#6f42c1"
+			}
+		}
+	]
+}
