@@ -1,1 +1,1 @@
-# vscode-github-theme
+# GitHub Theme for Visual Studio Code
