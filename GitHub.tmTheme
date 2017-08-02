@@ -5,13 +5,13 @@
 	<key>name</key>
 	<string>Github</string>
 	<key>settings</key>
-  <array>
+	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
-      </dict>
-	</dict>
-	  </array>
+			</dict>
+		</dict>
+	</array>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
@@ -19,6 +19,6 @@
 	<key>author</key>
 	<string>NoHomey</string>
 	<key>comment</key>
-	<string>G</string>
+	<string>GitHub Visual Studio Code theme</string>
 </dict>
 </plist>
