@@ -1,0 +1,19 @@
+{
+	"name": "theme-github",
+	"displayName": "Theme Github",
+	"description": "",
+	"version": "1.0.0",
+	"publisher": "thomaspink",
+	"repository": "https://github.com/thomaspink/vscode-github-theme",
+	"engines": { "vscode": "*" },
+	"categories": [ "Themes" ],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Github",
+				"uiTheme": "vs",
+				"path": "./themes/github.json"
+			}
+		]
+	}
+}
