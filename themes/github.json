@@ -3,7 +3,32 @@
 	"name": "GitHub Theme",
 	"colors": {
 		"editor.background": "#ffffff",
-		"editor.foreground": "#24292e"
+		"editor.foreground": "#24292e",
+		"editorLineNumber.foreground": "#ccc",
+		"editorIndentGuide.background": "#eee",
+		"editorBracketMatch.background": "#f1f8ff",
+		"editorBracketMatch.border": "#c8e1ff",
+		"editor.lineHighlightBackground": "#fffbdd",
+		"focusBorder": "#fafbfc",
+
+		// Activitybar
+		"activityBar.background": "#24292e",
+
+		// Sidebar
+		"sideBar.background": "#fafbfc",
+		"sideBar.foreground": "#586069",
+		"sideBar.border": "#ddd",
+		"sideBarTitle.foreground": "#24292e",
+		"sideBarSectionHeader.background": "#fafbfc",
+		"sideBarSectionHeader.foreground": "#24292e",
+
+		// Statusbar
+		"statusBar.foreground": "#24292e",
+		"statusBar.background": "#fafbfc",
+		"statusBar.border": "#ddd",
+
+		// Notification
+		"notification.background": "#54a3ff"
 	},
 	"tokenColors": [
 		{
