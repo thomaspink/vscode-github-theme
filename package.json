@@ -1,7 +1,7 @@
 {
 	"name": "theme-github",
-	"displayName": "Theme Github",
-	"description": "",
+	"displayName": "Github Theme",
+	"description": "GitHub Theme for Visual Studio Code",
 	"version": "1.0.0",
 	"publisher": "thomaspink",
 	"repository": "https://github.com/thomaspink/vscode-github-theme",
