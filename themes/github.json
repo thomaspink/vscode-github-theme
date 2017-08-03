@@ -39,7 +39,14 @@
 				"support.function",
 				"support.variable.dom",
 				"support.variable.property",
-				"support.variable.property"
+				"support.variable.property",
+
+				// CSS
+				"meta.property-name",
+				"meta.property-value",
+
+				// Handlebars
+				"support.constant.handlebars"
 			],
 			"settings": {
 				"foreground": "#005cc5"
@@ -56,15 +63,28 @@
 				"foreground": "#d73a49"
 			}
 		},
-
 		{
 			"scope": [
 				"entity.name.type",
 				"entity.other.inherited-class",
-				"meta.function-call"
+				"meta.function-call",
+
+				// HTML/XML
+				"entity.other.attribute-name",
+
+				// Shell
+				"entity.name.function.shell"
 			],
 			"settings": {
 				"foreground": "#6f42c1"
+			}
+		},
+		{
+			"scope": [
+				"entity.name.tag"
+			],
+			"settings": {
+				"foreground": "#22863a"
 			}
 		}
 	]
