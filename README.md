@@ -8,3 +8,6 @@ This theme has been optimized for JavaScript, TypeScript, CSS, SASS(SCSS), HTML 
 
 ## Issues, Feedback
 If you find any issues, bugs, missing stylings or feedback please feel free to [file an issue](https://github.com/thomaspink/vscode-github-theme/issues).
+
+## Enjoy
+Enjoy coding :)
