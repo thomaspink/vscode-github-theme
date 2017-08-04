@@ -12,7 +12,11 @@ You can find this theme in the [Visual Studio Code Marketplace](https://marketpl
 ## Info
 This theme has been optimized for JavaScript, TypeScript, CSS, SASS(SCSS), HTML and Shell. Other languages are not tested and may differ from the github code styles. Please file an issue or submit a PR in this case.
 
-To get the full GitHub experience set `"editor.lineHeight": 20` in your VSCode settings.
+To get the full GitHub experience set the following settings in VSCode:     
+```
+"editor.lineHeight": 20,
+"editor.fontSize": 12
+```
 
 ## Issues, Feedback
 If you find any issues, bugs, missing stylings or feedback please feel free to [file an issue](https://github.com/thomaspink/vscode-github-theme/issues).
