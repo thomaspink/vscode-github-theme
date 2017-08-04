@@ -26,6 +26,10 @@
 		"statusBar.foreground": "#24292e",
 		"statusBar.background": "#fafbfc",
 		"statusBar.border": "#ddd",
+		"statusBar.noFolderForeground": "#24292e",
+		"statusBar.noFolderBackground": "#fafbfc",
+		"statusBar.debuggingForeground": "#24292e",
+		"statusBar.debuggingBackground": "#fafbfc",
 
 		// Notification
 		"notification.background": "#54a3ff"
