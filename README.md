@@ -14,6 +14,7 @@ This theme has been optimized for JavaScript, TypeScript, CSS, SASS(SCSS), HTML 
 
 To get the full GitHub experience set the following settings in VSCode:     
 ```
+"editor.fontFamily": "'SF Mono', Menlo, Monaco, 'Courier New', monospace",
 "editor.lineHeight": 20,
 "editor.fontSize": 12
 ```
