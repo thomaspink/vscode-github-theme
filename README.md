@@ -1,7 +1,6 @@
 # GitHub Theme for Visual Studio Code
 The purpose is to provide a color theme for Visual Studio Code as close as it can get to the real GitHub code styling.
 
-![Screenshot](theme.png)
 <img src="theme.png" alt="Screenshot" width="980">
 
 ## Installation
