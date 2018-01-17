@@ -13,26 +13,32 @@
 
 		// Activitybar
 		"activityBar.background": "#24292e",
-
+		"activityBar.border": "#2C60D5",
 		// Sidebar
 		"sideBar.background": "#fafbfc",
 		"sideBar.foreground": "#586069",
-		"sideBar.border": "#ddd",
+		"sideBar.border": "#DBEDFF",
 		"sideBarTitle.foreground": "#24292e",
 		"sideBarSectionHeader.background": "#fafbfc",
 		"sideBarSectionHeader.foreground": "#24292e",
 
 		// Statusbar
-		"statusBar.foreground": "#24292e",
+		"statusBar.foreground": "#2C60D5",
 		"statusBar.background": "#fafbfc",
-		"statusBar.border": "#ddd",
+		"statusBar.border": "#2C60D5",
 		"statusBar.noFolderForeground": "#24292e",
 		"statusBar.noFolderBackground": "#fafbfc",
 		"statusBar.debuggingForeground": "#24292e",
 		"statusBar.debuggingBackground": "#fafbfc",
 
 		// Notification
-		"notification.background": "#54a3ff"
+		"notification.background": "#54a3ff",
+		
+		//TAB
+		"tab.activeBackground": "#2C60D5",
+		"tab.activeForeground": "#fff",
+		"tab.inactiveBackground": "#DBEDFF",
+		"tab.inactiveForeground": "#24292e"
 	},
 	"tokenColors": [
 		{
