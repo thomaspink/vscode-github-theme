@@ -16,7 +16,7 @@ To get the full GitHub experience set the following settings in VSCode:
 ```
 "editor.fontFamily": "'SFMono-Regular','Consolas','Liberation Mono','Menlo','Courier','monospace'",
 "editor.lineHeight": 20,
-"editor.fontSize": 14
+"editor.fontSize": 12
 ```
 
 ## Issues, Feedback
