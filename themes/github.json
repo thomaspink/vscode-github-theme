@@ -50,13 +50,70 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#6a737d"
+				"foreground": "#6a737d",
+				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "string",
 			"settings": {
 				"foreground": "#032f62"
+			}
+		},
+		{
+			"name": "Function argument",
+			"scope": "variable.parameter",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+		"name": "Storage Modifier [e.g. class, extends, static] (JS",
+		"scope": "storage.modifier, storage.type.class.js, variable.language.this, variable.language.this.js",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Modules",
+			"scope": "support.module, support.node",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "HTML tag attribute",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Java annotation",
+			"scope": "source.java storage.type.annotation",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Markdown italic",
+			"scope": "markup.italic",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Markdown bold",
+			"scope": "markup.bold",
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Markdown bold italic",
+			"scope": "markup.bold markup.italic, markup.italic markup.bold",
+			"settings": {
+				"fontStyle": "italic bold"
 			}
 		},
 		{
