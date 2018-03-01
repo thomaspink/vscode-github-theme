@@ -22,13 +22,13 @@
 		"sideBarSectionHeader.background": "#fafbfc",
 		"sideBarSectionHeader.foreground": "#24292e",
 		// Statusbar
-		"statusBar.foreground": "#24292e",
 		"statusBar.background": "#fafbfc",
-		"statusBar.border": "#ddd",
-		"statusBar.noFolderForeground": "#24292e",
+		"statusBar.foreground": "#586069",
+		"statusBar.border": "#e1e4e8",
 		"statusBar.noFolderBackground": "#fafbfc",
-		"statusBar.debuggingForeground": "#24292e",
+		"statusBar.noFolderForeground": "#24292e",
 		"statusBar.debuggingBackground": "#fafbfc",
+		"statusBar.debuggingForeground": "#24292e",
 		// Notification
 		"notification.background": "#54a3ff"
 	},
