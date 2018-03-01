@@ -13,7 +13,10 @@
 		//Border
 		"focusBorder": "#fafbfc",
 		// Activitybar
-		"activityBar.background": "#24292e",
+		"activityBar.background": "#fafbfc",
+		"activityBar.foreground": "#b7b9bb",
+		"activityBarBadge.background": "#e8e9eb",
+		"activityBarBadge.foreground": "#444d56",
 		// Sidebar
 		"sideBar.background": "#fafbfc",
 		"sideBar.foreground": "#586069",
