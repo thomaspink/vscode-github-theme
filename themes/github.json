@@ -30,7 +30,17 @@
 		"statusBar.debuggingForeground": "#24292e",
 		"statusBar.debuggingBackground": "#fafbfc",
 		// Notification
-		"notification.background": "#54a3ff"
+		"notification.background": "#fefefe",
+		"notification.foreground": "#818182",
+		"notification.buttonBackground": "#fefefe",
+		"notification.buttonHoverBackground": "#fefefe",
+		"notification.buttonForeground": "#818182",
+		"notification.infoBackground": "#fefefe",
+		"notification.infoForeground": "#004085",
+		"notification.errorBackground": "#fefefe",
+		"notification.errorForeground": "#721c24",
+		"notification.warningBackground": "#fefefe",
+		"notification.warningForeground": "#856404"
 	},
 	"tokenColors": [
 		{
