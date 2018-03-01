@@ -2,6 +2,7 @@
 	"$schema": "vscode://schemas/color-theme",
 	"name": "GitHub Theme",
 	"colors": {
+		//Editor
 		"editor.background": "#ffffff",
 		"editor.foreground": "#24292e",
 		"editorLineNumber.foreground": "#ccc",
@@ -9,11 +10,13 @@
 		"editorBracketMatch.background": "#f1f8ff",
 		"editorBracketMatch.border": "#c8e1ff",
 		"editor.lineHighlightBackground": "#fffbdd",
+		//Border
 		"focusBorder": "#fafbfc",
-
 		// Activitybar
-		"activityBar.background": "#24292e",
-
+		"activityBar.background": "#fafbfc",
+		"activityBar.foreground": "#b7b9bb",
+		"activityBarBadge.background": "#e8e9eb",
+		"activityBarBadge.foreground": "#444d56",
 		// Sidebar
 		"sideBar.background": "#fafbfc",
 		"sideBar.foreground": "#586069",
@@ -21,7 +24,6 @@
 		"sideBarTitle.foreground": "#24292e",
 		"sideBarSectionHeader.background": "#fafbfc",
 		"sideBarSectionHeader.foreground": "#24292e",
-
 		// Statusbar
 		"statusBar.foreground": "#24292e",
 		"statusBar.background": "#fafbfc",
@@ -30,7 +32,6 @@
 		"statusBar.noFolderBackground": "#fafbfc",
 		"statusBar.debuggingForeground": "#24292e",
 		"statusBar.debuggingBackground": "#fafbfc",
-
 		// Notification
 		"notification.background": "#54a3ff"
 	},
@@ -69,11 +70,9 @@
 				"support.variable.dom",
 				"support.variable.property",
 				"support.variable.property",
-
 				// CSS
 				"meta.property-name",
 				"meta.property-value",
-
 				// Handlebars
 				"support.constant.handlebars"
 			],
@@ -97,10 +96,8 @@
 				"entity.name.type",
 				"entity.other.inherited-class",
 				"meta.function-call",
-
 				// HTML/XML
 				"entity.other.attribute-name",
-
 				// Shell
 				"entity.name.function.shell"
 			],
