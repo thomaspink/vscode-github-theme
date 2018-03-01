@@ -17,7 +17,7 @@
 		// Sidebar
 		"sideBar.background": "#fafbfc",
 		"sideBar.foreground": "#586069",
-		"sideBar.border": "#ddd",
+		"sideBar.border": "#e1e4e8",
 		"sideBarTitle.foreground": "#24292e",
 		"sideBarSectionHeader.background": "#fafbfc",
 		"sideBarSectionHeader.foreground": "#24292e",
