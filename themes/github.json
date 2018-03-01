@@ -2,6 +2,7 @@
 	"$schema": "vscode://schemas/color-theme",
 	"name": "GitHub Theme",
 	"colors": {
+		//Editor
 		"editor.background": "#ffffff",
 		"editor.foreground": "#24292e",
 		"editorLineNumber.foreground": "#ccc",
@@ -9,11 +10,10 @@
 		"editorBracketMatch.background": "#f1f8ff",
 		"editorBracketMatch.border": "#c8e1ff",
 		"editor.lineHighlightBackground": "#fffbdd",
+		//Border
 		"focusBorder": "#fafbfc",
-
 		// Activitybar
 		"activityBar.background": "#24292e",
-
 		// Sidebar
 		"sideBar.background": "#fafbfc",
 		"sideBar.foreground": "#586069",
@@ -21,7 +21,6 @@
 		"sideBarTitle.foreground": "#24292e",
 		"sideBarSectionHeader.background": "#fafbfc",
 		"sideBarSectionHeader.foreground": "#24292e",
-
 		// Statusbar
 		"statusBar.foreground": "#24292e",
 		"statusBar.background": "#fafbfc",
@@ -30,9 +29,18 @@
 		"statusBar.noFolderBackground": "#fafbfc",
 		"statusBar.debuggingForeground": "#24292e",
 		"statusBar.debuggingBackground": "#fafbfc",
-
 		// Notification
-		"notification.background": "#54a3ff"
+		"notification.background": "#fefefe",
+		"notification.foreground": "#818182",
+		"notification.buttonBackground": "#fefefe",
+		"notification.buttonHoverBackground": "#fefefe",
+		"notification.buttonForeground": "#818182",
+		"notification.infoBackground": "#fefefe",
+		"notification.infoForeground": "#004085",
+		"notification.errorBackground": "#fefefe",
+		"notification.errorForeground": "#721c24",
+		"notification.warningBackground": "#fefefe",
+		"notification.warningForeground": "#856404"
 	},
 	"tokenColors": [
 		{
@@ -69,11 +77,9 @@
 				"support.variable.dom",
 				"support.variable.property",
 				"support.variable.property",
-
 				// CSS
 				"meta.property-name",
 				"meta.property-value",
-
 				// Handlebars
 				"support.constant.handlebars"
 			],
@@ -97,10 +103,8 @@
 				"entity.name.type",
 				"entity.other.inherited-class",
 				"meta.function-call",
-
 				// HTML/XML
 				"entity.other.attribute-name",
-
 				// Shell
 				"entity.name.function.shell"
 			],
