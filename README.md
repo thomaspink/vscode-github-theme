@@ -10,7 +10,7 @@ Or install this theme from the extension panel (search for "github theme").
 You can find this theme in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=thomaspink.theme-github).
 
 ## Info
-This theme has been optimized for JavaScript, TypeScript, CSS, SASS(SCSS), HTML and Shell. Other languages are not tested and may differ from the github code styles. Please file an issue or submit a PR in this case.
+This theme has been optimized for JavaScript, TypeScript, CSS, SASS(SCSS), HTML and Shell. Other languages are not tested and may differ from the GitHub code styles. Please file an issue or submit a PR in this case.
 
 To get the full GitHub experience set the following settings in VSCode:     
 ```

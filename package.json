@@ -1,6 +1,6 @@
 {
     "name": "theme-github",
-    "displayName": "Github Theme",
+    "displayName": "GitHub Theme",
     "description": "GitHub Theme for Visual Studio Code",
     "icon": "icon.png",
     "version": "1.0.1",
@@ -15,7 +15,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Github",
+                "label": "GitHub",
                 "uiTheme": "vs",
                 "path": "./themes/github.json"
             }
